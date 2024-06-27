@@ -1,0 +1,27 @@
+.film img{
+    height: 360px;
+    width: 250px;
+    padding: 15px 5px 0px 5px;
+    margin-left: 30px;
+}
+button:hover{
+    transform:scale(1.1);
+    transition: .3s ease-in-out;
+}
+h1{
+    font-family: "PT Sans Narrow", sans-serif;
+}
+.col-md-6:hover{
+    transform:scale(1.1);
+    transition: .6s ease-in-out;
+}
+.col:hover{
+    transform:scale(1.1);
+    transition: .6s ease-in-out;
+}
+.carousel-item{
+    height: 700PX;
+}
+
+
+
